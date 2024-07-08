@@ -1,5 +1,25 @@
 {
+  "name": "semantic-release-test",
+  "version": "1.0.0",
+  "main": "index.js",
   "devDependencies": {
     "semantic-release": "^24.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4ur1c10/semantic-release-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m4ur1c10/semantic-release-test/issues"
+  },
+  "homepage": "https://github.com/m4ur1c10/semantic-release-test#readme",
+  "description": "",
+  "release": {
+    "branches": ["main"]
   }
 }
